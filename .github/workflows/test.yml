@@ -4,6 +4,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: janissneiders/fita_devops_engeneer@v1
+      - uses: janissneiders/fita_devops_engeneer@v1.0.0
       - run: ls -la
       
